@@ -1,2 +1,3 @@
-# martincrothers.github.io
-The GitHub Pages site for Martin Crothers
+# About Martin Crothers
+
+See my portfolio: [https://github.com/martincrothers/code_samples](https://github.com/martincrothers/code_samples)
